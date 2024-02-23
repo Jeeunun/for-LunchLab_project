@@ -7,9 +7,28 @@
 
 네이버리뷰 사용자들에게 개인화 맞춤 추천시스템 구축 <br>
 
+[ 스키마 구성 ] 
+|user|restaurant|
+|---|---|
+|id(key)|매장명(key)|
+|매장명|카테고리|
+|카테고리|리뷰내용|
+|리뷰내용|태그|
+|태그|가격|
+|세부내용|주소|
+|방문일자||
+|재방문횟수||
+|주소||
+
+
 ## 프로젝트 팀 구성
-### 1. Data Gathering
+### 1. Data Gathering 
+#### 공공데이터 csv 를 활용하여 해당 매장명을 selenium crawling을 이용하여 restaurant 관련 정보 추출
+#### AWS와 연결된 RDS와 연결
+
 ### 2. Data Algorithms
+#### Tokenizor
+
 ### 3. AWS
 
 ## 본인의 역할

@@ -3,8 +3,9 @@
 
 
 ## 프로젝트의 목적
-네이버리뷰 사용자들에게 개인화 맞춤 추천시스템 구축
-![img-1](https://github.com/Jeeunun/for-LunchLab_project/assets/129602882/2fa4971f-1955-4fab-9e12-d82984724ae0)
+![img-1](https://github.com/Jeeunun/for-LunchLab_project/assets/129602882/2fa4971f-1955-4fab-9e12-d82984724ae0) <br>
+
+네이버리뷰 사용자들에게 개인화 맞춤 추천시스템 구축 <br>
 
 ## 프로젝트 팀 구성
 ### 1. Data Gathering

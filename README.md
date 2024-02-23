@@ -4,6 +4,7 @@
 
 ## 프로젝트의 목적
 네이버리뷰 사용자들에게 개인화 맞춤 추천시스템 구축
+![img-1](https://github.com/Jeeunun/for-LunchLab_project/assets/129602882/2fa4971f-1955-4fab-9e12-d82984724ae0)
 
 ## 프로젝트 팀 구성
 ### 1. Data Gathering
@@ -12,4 +13,13 @@
 
 ## 본인의 역할
 ### AWS에서의 Data Management 와 Processing(TFRecord, MLops활용)
+### 관련 정보 Notion, Slack 에 게시 및 공유
+
+[Notion] https://www.notion.so/modulabs/Lunch-LAB-9a4e8a45f830437ca454b6b797bc418f  <br>
+[Slack] https://modulabs.slack.com/canvas/C06E2L70ZQA <br>
+
+## 공부해야할 것
+### 1. AWS 기본 구조
+### 2. AWS SageMaker
+### 3. ..
 
